@@ -26,8 +26,8 @@ No es necesario un gran desembolso ni tener un equipo que consuma mucha energía
 
 ## 📥 Descarga
 
-- **ISO (2,1 GiB):** `<https://drive.google.com/file/d/1eEKf1X5x_vkQI6hOqPlZiYi0EsVJI0ee/view?usp=drive_link>`
-- **SHA256:** `<32fc3f9ad5ac068c5e96451d30ac98b2027293fe0135baf68337fb6312f59c5d>`
+- **ISO (2,1 GiB):** `https://drive.google.com/file/d/1eEKf1X5x_vkQI6hOqPlZiYi0EsVJI0ee/view?usp=drive_link`
+- **SHA256:** `32fc3f9ad5ac068c5e96451d30ac98b2027293fe0135baf68337fb6312f59c5d`
 
 Verifica en Windows: `certutil -hashfile descarga.iso SHA256` · en Linux/macOS: `sha256sum descarga.iso`
 
@@ -100,6 +100,6 @@ La ISO resultante arranca en modo batch (sin preguntas), restaura y reinicia (`-
 
 Si este proyecto te ha sido útil y quieres apoyarlo, puedes hacer una pequeña donación en **Buy Me a Coffee**:
 
-👉 `<buymeacoffee.com/alexmilla>`
+👉 `buymeacoffee.com/alexmilla`
 
 Cualquier aportación, por pequeña que sea, ayuda a mantener el proyecto. ¡Gracias!
