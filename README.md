@@ -24,6 +24,9 @@ No es necesario un gran desembolso ni tener un equipo que consuma mucha energía
 
 **Por qué un Wyse 3040:** es un *thin client* fanless de tamaño diminuto, silencioso y con un **consumo eléctrico realmente bajo**, que funciona 24/7 sin problema. Además, los **precios de segunda mano son muy baratos**: por poco más que nada tienes hardware x86 silencioso y eficiente para hacer de servidor DNS doméstico.
 
+  ![](docs/WYSE3040-01.jpeg) | ![](docs/WYSE3040-02.jpeg) |
+ |---|---|
+
 **Cómo funciona el reparto:** la instalación maestra se capturó como imagen de disco con Clonezilla y se empaquetó en una ISO de recuperación desatendida. Quien reciba la ISO solo necesita un USB y 15 minutos para clonar esa misma instalación en otro Wyse 3040, sin instalar nada ni saber Linux.
 
 ## 📥 Descarga
