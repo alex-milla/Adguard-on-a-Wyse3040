@@ -1,3 +1,5 @@
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/alexmilla)
+
 # Wyse 3040 — ISO de despliegue (Debian 13 + XFCE + AdGuard Home)
 
 ISO de Clonezilla Live **desatendida** que convierte un Dell Wyse 3040 en un **servidor DNS local con AdGuard Home**, con Debian 13 y escritorio XFCE ya instalados y configurados. Arrancas el USB, esperas, y el equipo queda desplegado. Pensada para que una persona sin conocimientos técnicos pueda hacerlo sin ayuda.
@@ -101,3 +103,11 @@ Si este proyecto te ha sido útil y quieres apoyarlo, puedes hacer una pequeña 
 👉 [buymeacoffee.com/alexmilla](https://www.buymeacoffee.com/alexmilla)
 
 Cualquier aportación, por pequeña que sea, ayuda a mantener el proyecto. ¡Gracias!
+
+
+
+## 📬 Contact
+
+- Website: [alexmilla.dev](https://alexmilla.dev)
+- GitHub: [github.com/alex-milla](https://github.com/alex-milla)
+- Support: [buymeacoffee.com/alexmilla](https://buymeacoffee.com/alexmilla)
