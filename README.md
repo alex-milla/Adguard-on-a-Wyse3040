@@ -38,8 +38,6 @@ Verifica en Windows: `certutil -hashfile descarga.iso SHA256` · en Linux/macOS:
 3. Arranca el Wyse 3040 con F12 → entrada UEFI del USB.
 4. No toques nada: restaura en 5–10 min y se reinicia solo.
 
-Guía completa paso a paso para no iniciados: [`docs/guia-despliegue.md`](docs/guia-despliegue.md)
-
 ## 📦 Qué contiene la imagen
 
 | Componente | Detalle |
